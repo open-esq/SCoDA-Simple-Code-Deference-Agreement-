@@ -4,7 +4,7 @@ This is a work-in-progress alpha version of a *SCoDAO*, or "Simple Code Deferenc
 
 The SCoDAO provides that, after the parties sign the SCoDAO, the results of operations of their DAO smart contracts will be binding upon, and thus non-appealable by, the parties with respect to their DAO assets and transactions (as well as any proceeds thereof), subject to certain (narrow) exceptions. 
 
-The SCoDAO therefore embodies a “qualified code deference” (QDC) approach to smart contracting as eloborated by [Gabriel Shapiro] (https://github.com/lex-node/). As compared to competing approaches to smart contracting (such as the ‘Ricardian’ approach or the unqualified ‘code is law’ approach): 
+The SCoDAO therefore embodies a “qualified code deference” (QDC) approach to smart contracting as eloborated by Gabriel Shapiro. As compared to competing approaches to smart contracting (such as the ‘Ricardian’ approach or the unqualified ‘code is law’ approach): 
 
 * QDC does not try to describe or summarize a contractual arrangement the code is supposed to perform;
 
