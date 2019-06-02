@@ -16,7 +16,7 @@ This Simple Code Deference Agreement for DAO (this "***Agreement***") seeks to e
 
 (B) cause, encourage or facilitate, a Material Adverse Exception Event.
 
-(b) *Exception Handling.* Notwithstanding anything to the contrary set forth in Section 2(a), if there is a Material Adverse Exception Event, then the rules and procedures set forth in this clause "(b)" shall determine the rights and obligations of the Parties relating to the DAO.
+(b) *Exception Handling.* Notwithstanding anything to the contrary set forth in Section 2(a), if there is a Material Adverse Exception Event, then the rules and procedures set forth in this clause "(b)" shall determine the rights and obligations of the Parties relating to the DAO and/or DAO Matters.
 
 (i) *Exception Notice.* If either Party becomes aware that there is a Material Adverse Exception Event, such Party (the “***Sending Party***”) shall deliver to the other Party (the “***Receiving Party***”) a notice (an “***Exception Notice***”) signed by such Party:
 
