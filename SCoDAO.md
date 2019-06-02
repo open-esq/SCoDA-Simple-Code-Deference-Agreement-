@@ -44,7 +44,7 @@ This Simple Code Deference Agreement for DAO (this "***Agreement***") seeks to e
 
 (E) If the Parties fail to reach an agreement resulting in an Exception Handling Addendum during the Negotiation Period, then either Party may initiate an arbitration action to resolve the issues in accordance with the procedures set forth on *Exhibit A* (the “***Arbitration Procedures***”). The decision resulting from the Arbitration Procedures shall include, among any other determinations, a determination of the treatment of any DAO Matters and/or related DAO property and whether to extend, modify or terminate the covenants applying to the DAO property during the Standstill Period. The decision resulting from the Arbitration Procedures shall be non-appealable, binding and conclusive upon the Parties. Judgment upon such decision may be entered in any court of competent jurisdiction.
 
-**2. Representations and Warranties.**
+**2. Representations and Warranties**
 
 Each Party (as the "***Representing Party***") hereby represents and warrants, to and for the benefit of each other Party, as of the Effective Time, as follows:
 
