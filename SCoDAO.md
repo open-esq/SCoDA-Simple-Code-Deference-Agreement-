@@ -125,9 +125,9 @@ Each Party (as the "***Representing Party***") hereby represents and warrants, t
 (h) *Governing Law.* All rights and obligations hereunder will be governed by the laws of the State of Delaware, without regard to the conflicts of law provisions thereof.
 __________________________________________________________________________________________________________________________________________
 
-*[DAO Signature: 0x]*
+*[DAO Signature: 0x________ /ADDRESS/]*
 
-*[Partipant Signature: 0x]*
+*[Partipant Signature: 0x________ /ADDRESS/]*
 
 _________________________________________________________________________________________________________________________________________
 
