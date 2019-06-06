@@ -1,6 +1,6 @@
 ## SIMPLE CODE DEFERENCE AGREEMENT FOR DAO (SCoDAO)
 
-This Simple Code Deference Agreement for DAO (this "***Agreement***") seeks to establish and memorialize the mutual understanding of the undersigned (together with other adherent hereby, the "***Parties***") with regard to the effect of certain blockchain transactions recorded on the Ethereum network ("***Ethereum***") by the digital organization ("***DAO***") managed through the following Ethereum address: 0x________ /*ADDRESS*/ (such transactions taken thereby, "***DAO Matters***").
+This Simple Code Deference Agreement for DAO (this "***Agreement***") seeks to establish and memorialize the mutual understanding of the undersigned (together with other adherents registered hereby, the "***Parties***") with regard to the effect of certain blockchain transactions recorded on the Ethereum network ("***Ethereum***") by the digital organization ("***DAO***") managed through the following Ethereum address: 0x________ /*ADDRESS*/ (such transactions taken thereby, "***DAO Matters***").
 
 **1. DAO Matters Deference**
 
