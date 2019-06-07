@@ -1,6 +1,6 @@
 ## SIMPLE CODE DEFERENCE AGREEMENT FOR DAO (SCoDAO)
 
-This Simple Code Deference Agreement for DAO (this "***Agreement***") seeks to establish and memorialize the mutual understanding of the undersigned (together with other adherents registered hereby, the "***Parties***") with regard to the effect of certain blockchain transactions recorded on the Ethereum network ("***Ethereum***") by the digital organization ("***DAO***") managed through the following Ethereum address: 0x________ /*ADDRESS*/ (such transactions taken thereby, "***DAO Matters***").
+This Simple Code Deference Agreement for DAO (this "***Agreement***") seeks to memorialize the mutual understanding of the undersigned (together with other adherents registered hereby, the "***Parties***") with regard to the effect of certain transactions recorded on the Designated Blockchain by the digital organization ("***DAO***") managed through the following network address: 0x________ /*ADDRESS*/ (such transactions taken thereby, "***DAO Matters***").
 
 **1. DAO Matters Deference**
 
@@ -12,13 +12,13 @@ This Simple Code Deference Agreement for DAO (this "***Agreement***") seeks to e
 
 (iii) *Prohibition of Legal Proceedings & Transfers.* Each Party shall not, without the prior written consent of the other Party, directly or indirectly take or attempt to take any of the following actions:
 
-(A) except as set forth in Section 1(b) or Section 4, commence or continue any Legal Proceeding, assert any Claim or enforce any judgment or other Order, in each case, against or involving the other Party, relating to this Agreement, the DAO, the DAO Matters or any of the other subject matter of or matters contemplated by this Agreement, including, for the avoidance of doubt, any Legal Proceeding or Order *in rem* pertaining to the DAO, DAO Matters, or any Legal Proceeding or Claim challenging the enforceability of any provision of this Agreement;
+(A) except as set forth in Section 1(b) or Section 3, commence or continue any Legal Proceeding, assert any Claim or enforce any judgment or other Order, in each case, against or involving the other Party, relating to this Agreement, the DAO, the DAO Matters or any of the other subject matter of or matters contemplated by this Agreement, including, for the avoidance of doubt, any Legal Proceeding or Order *in rem* pertaining to the DAO, DAO Matters, or any Legal Proceeding or Claim challenging the enforceability of any provision of this Agreement;
 
 (B) cause, encourage or facilitate, a Material Adverse Exception Event.
 
 (b) *Exception Handling.* Notwithstanding anything to the contrary set forth in Section 1(a), if there is a Material Adverse Exception Event, then the rules and procedures set forth in this clause "(b)" shall determine the rights and obligations of the Parties relating to the DAO and/or DAO Matters:
 
-(i) *Exception Notice.* If either Party becomes aware that there is a Material Adverse Exception Event, such Party (the “***Sending Party***”) shall deliver to the other Party (the “***Receiving Party***”) a notice (an “***Exception Notice***”) signed by such Party:
+(i) *Exception Notice.* If a Party hereto becomes aware that there is a Material Adverse Exception Event, such Party (the “***Sending Party***”) shall deliver to the other Parties (the “***Receiving Parties***”) a notice (an “***Exception Notice***”) signed by such Party:
 
 (A) certifying that the Sending Party believes in good faith that there is a Material Adverse Exception Event;
 
@@ -28,17 +28,17 @@ This Simple Code Deference Agreement for DAO (this "***Agreement***") seeks to e
 
 (D) including copies of any written evidence or other material written information, and summaries of any other evidence, relevant to, and material for the consideration of, the Material Adverse Exception Event and the other matters referred to in the Exception Notice; and
 
-(E) containing a representation by the Sending Party, made to and for the benefit of the Receiving Party with the understanding that the Receiving Party will rely thereon, that, to the Sending Party’s knowledge, the certification and statements made pursuant to the preceding clauses “(A)” and “(B)” are accurate as of the date of the Exception Notice, and, considered collectively, do not contain any untrue statement of a material fact or omit to state any material fact necessary in order to make such statements, in light of the circumstances in which they were made, not misleading.
+(E) containing a representation by the Sending Party, made to and for the benefit of the Receiving Parties with the understanding that the Receiving Parties will rely thereon, that, to the Sending Party’s knowledge, the certification and statements made pursuant to the preceding clauses “(A)” and “(B)” are accurate as of the date of the Exception Notice, and, considered collectively, do not contain any untrue statement of a material fact or omit to state any material fact necessary in order to make such statements, in light of the circumstances in which they were made, not misleading.
 
-(ii) *Exception Standstill.* During the period commencing upon the earlier of a Party becoming aware that there is a Material Adverse Exception Event or being delivered an Exception Notice and ending with the Parties entering into an Exception Handling Addendum or receiving a final decision of an arbitrator in accordance with Section 1(b)(iii) (the “***Standstill Period***”), such Party shall: (A) treat all of the DAO property of such Party that may have been Transferred to such Party as a result of the Material Adverse Exception Event; and (B) deposit and maintain such DAO property in a segregated Account Address to be treated, to the extent permitted by applicable Legal Requirements, as a custodial trust held for the benefit of the DAO.
+(ii) *Exception Standstill.* During the period commencing upon the earlier of a Party becoming aware that there is a Material Adverse Exception Event or being delivered an Exception Notice and ending with the Parties hereto entering into an Exception Handling Addendum or receiving a final decision of an arbitrator in accordance with Section 1(b)(iii) (the “***Standstill Period***”), such Party shall deposit and maintain such DAO property in a segregated Account Address to be treated, to the extent permitted by applicable Legal Requirements, as a custodial trust held for the benefit of the DAO.
 
 (iii) *Determination of Exception Handling*:
 
 (A) The term “***Exception Handling Addendum***” refers to an addendum to this Agreement signed by the Parties and setting forth the Parties’ agreement on the existence or non-existence of a Material Adverse Exception Event and the actions to be taken, the agreements to be entered into, and the remedies to be sought in response thereto. Each Exception Handling Addendum shall automatically and without further action of the Parties be deemed incorporated into and to form a part of this Agreement.
 
-(B) If the Receiving Party wishes to accept the Exception Handling Proposal in full, then the Receiving Party shall promptly deliver a written notice of such acceptance to the Sending Party and the Parties shall promptly enter into an Exception Handling Addendum reflecting the Exception Handling Proposal.
+(B) If the Receiving Parties wishes to accept the Exception Handling Proposal in full, then the Receiving Parties shall promptly deliver a written notice of such acceptance to the Sending Party and the Parties shall promptly enter into an Exception Handling Addendum reflecting the Exception Handling Proposal.
 
-(C) If the Receiving Party disputes the existence of a Material Adverse Exception Event, or does not wish to accept all or any part of the Exception Handling Proposal, then the Receiving Party shall promptly deliver a written notice of such non-acceptance an “***Exception Response Notice***” to the Sending Party. The Exception Response Notice shall include the same categories of information, statements, evidence and representations and warranties as would be required for an Exception Notice, *mutatis mutandis*.
+(C) If the Receiving Parties dispute the existence of a Material Adverse Exception Event, or does not wish to accept all or any part of the Exception Handling Proposal, then the Receiving Parties shall promptly deliver a written notice of such non-acceptance an “***Exception Response Notice***” to the Sending Party. The Exception Response Notice shall include the same categories of information, statements, evidence and representations and warranties as would be required for an Exception Notice, *mutatis mutandis*.
 
 (D) During the continuous 30-day period beginning on the date after the date the notice of non-acceptance is delivered to the Sending Party the “***Negotiation Period***”, the Parties shall use commercially reasonable efforts to negotiate in good faith to agree upon the existence or non-existence of a Material Adverse Exception Event and, if so agreed, the actions to be taken, the agreements to be entered into and the remedies to be sought by the Parties in response to the Material Adverse Exception Event. If the Parties agree upon such matters during the Negotiation Period, the Parties shall promptly enter into an Exception Handling Addendum reflecting the same.
 
@@ -46,7 +46,7 @@ This Simple Code Deference Agreement for DAO (this "***Agreement***") seeks to e
 
 **2. Representations and Warranties**
 
-Each Party (as the "***Representing Party***") hereby represents and warrants, to and for the benefit of each other Party, as of the Effective Time, as follows:
+Each Party (as the "***Representing Party***") hereby represents and warrants, to and for the benefit of each other Party hereto, as of the Effective Time, as follows:
 
 (a) *Authorization and Enforceability.* The Representing Party has all necessary power, authority and capacity to perform all of the Representing Party's obligations under, and to execute and deliver, this Agreement. This Agreement has been duly executed and delivered by the Representing Party and constitutes a legal, valid and binding obligation of the Representing Party, enforceable against the Representing Party in accordance with its terms, subject only to the effect, if any, of (i) applicable bankruptcy, insolvency, moratorium or other similar laws affecting the rights of creditors generally, and (ii) rules of law governing specific performance, injunctive relief and other equitable remedies. If the Representing Party is an entity, then the Representing Party is duly formed, organized, validly existing and in good standing under the laws of the jurisdiction in which it was formed.
 
@@ -62,17 +62,17 @@ Each Party (as the "***Representing Party***") hereby represents and warrants, t
 
 **3. Indemnification**
 
-(a) From and after the Effective Time, each Party (as such, the “***Indemnifying Party***”) shall indemnify, hold harmless, compensate and reimburse the other Party (as such, the “***Indemnified Party***”) from, against and for all reasonably foreseeable losses, liabilities, damages whether consequential or otherwise, Claims, fees, lost profits, taxes, reductions in value, interests, costs and expenses arising from (i) any inaccuracy in any of the representations and warranties made by the Indemnifying Party in this Agreement or Exception Notice or Exception Response Notice; or (ii) any breach of any of the covenants or obligations of the Indemnifying Party set forth in this Agreement.
+(a) From and after the Effective Time, each Party hereto (as such, the “***Indemnifying Party***”) shall indemnify, hold harmless, compensate and reimburse the other Parties hereto (as such, the “***Indemnified Party***”) from, against and for all reasonably foreseeable losses, liabilities, damages whether consequential or otherwise, Claims, fees, lost profits, taxes, reductions in value, interests, costs and expenses arising from (i) any inaccuracy in any of the representations and warranties made by the Indemnifying Party in this Agreement or Exception Notice or Exception Response Notice; or (ii) any breach of any of the covenants or obligations of the Indemnifying Party set forth in this Agreement.
 
-(b) Any claim for by an Indemnified Party pursuant to Section 4(a) shall be brought, negotiated and resolved exclusively in accordance with the procedures set forth in Section 1(b) including the Arbitration Procedures, *mutatis mutandis*.
+(b) Any claim for by an Indemnified Party pursuant to Section 3(a) shall be brought, negotiated and resolved exclusively in accordance with the procedures set forth in Section 1(b) including the Arbitration Procedures, *mutatis mutandis*.
 
-(c) This Section 3 shall provide the sole and exclusive remedy of the Indemnified Party for any of the matters described in Section 3(a)(i)-ii).
+(c) This Section 3 shall provide the sole and exclusive remedy of the Indemnified Party for any of the matters described in Section 3(a)(i)-(ii).
 
 **4. Definitions**
 
 (a) “**Claim**” means any past, present or future dispute, claim, controversy, demand, right, obligation, liability, action or cause of action of any kind or nature. 
 
-(b) “**Confirmation**” of a transaction shall be deemed to have occurred if and only if such transaction has been recorded in accordance with the Consensus Rules in a valid block whose hashed header is referenced by at least [ten] subsequent valid blocks on the Designated Blockchain. 
+(b) “**Confirmation**” of a transaction shall be deemed to have occurred if and only if such transaction has been recorded in accordance with the Consensus Rules in a valid block whose hashed header is referenced by at least ten (10) subsequent valid blocks on the Designated Blockchain. 
 
 (c) “**Consensus Attack**” means an attack that: (i) is undertaken by or on behalf of a block producer who controls, or group of cooperating block producers who collectively control, a preponderance of the means of block production on the Designated Blockchain Network; and (ii) has the actual or intended effect of: (A) reversing any transaction made to or by the DAO after Confirmation of such transaction, including any “double spend” attack having or intended to have such effect; or (B) preventing inclusion in blocks or Confirmation of any transaction made to or by the DAO, including any “censorship attack,” “transaction withholding attack” or “block withholding attack” having or intended to have such effect.  
 
@@ -80,7 +80,7 @@ Each Party (as the "***Representing Party***") hereby represents and warrants, t
 
 (e) “**Contract**” means any: (i) written, oral, implied by course of performance or otherwise or other agreement, contract, understanding, arrangement, settlement, instrument, warranty, license, insurance policy, benefit plan or legally binding commitment or undertaking; or (ii) any representation, statement, promise, commitment, undertaking, right or obligation that may be enforceable, or become subject to an Order directing performance thereof, based on equitable principles or doctrines such as estoppel, reliance, or quasi-contract. 
 
-(f) “**Designated Blockchain**” means at any give time, the version of the digital blockchain ledger commonly known as “[Ethereum]” that at least a majority of nodes running the Designated Client recognize as canonical as of such time. For the avoidance of doubt, the “Designated Blockchain” does not refer to the digital blockchain ledger commonly known as “Ethereum Classic” or any other blockchain ledgers from which or to which the Designated Blockchain has been “forked” or “split”. 
+(f) “**Designated Blockchain**” means at any give time, the version of the digital blockchain ledger commonly known as “Ethereum” that at least a majority of nodes running the Designated Client recognize as canonical as of such time. For the avoidance of doubt, the “Designated Blockchain” does not refer to the digital blockchain ledger commonly known as “Ethereum Classic” or any other blockchain ledgers from which or to which the Designated Blockchain has been “forked” or “split”. 
 
 (g) “**Designated Blockchain Network**” means the Ethereum mainnet (networkID:1, chainID:1), as recognized by the Designated Client. 
 
@@ -98,36 +98,32 @@ Each Party (as the "***Representing Party***") hereby represents and warrants, t
 
 (ii) the DAO having become inoperable, inaccessible or unusable, including as the result of any code library or repository incorporated by reference into the DAO or any other smart contract or oracle program on which the DAO depends having become inoperable, inaccessible or unusable or having itself suffered a Material Adverse Exception Event, *mutatis mutandis*;  
 
-(iii) a material and adverse effect on the use, functionality or performance of the DAO as the result of any bug, defect or error in the DAO or the triggering, use or exploitation (whether intentional or unintentional) thereof (it being understood that for purposes of this clause “(iii)”, a bug, defect or error will be deemed material only if it results in a loss to a party to this Agreement of at least [___ ] percent of the assets governed as DAO property); 
+(iii) a material and adverse effect on the use, functionality or performance of the DAO as the result of any bug, defect or error in the DAO or the triggering, use or exploitation (whether intentional or unintentional) thereof (it being understood that for purposes of this clause “(iii)”, a bug, defect or error will be deemed material only if it results in a loss to a party to this Agreement of at least 33% percent of the assets governed as DAO property); 
 
 (iv) any unauthorized use of an administrative function or privilege of the DAO, including: (A) any use of any administrative credential, key, password, account or address by a Person who has misappropriated or gained unauthorized access to such administrative credential, key, password, account or address or (B) any unauthorized use of an administrative function or privilege by a Party or a representative of a Party; or  
 
-(v) the DAO[, any of the Parties] or the DAO Matters is subject to a Legal Order that prohibits the DAO [(or that, if the DAO were a Person, would prohibit the DAO)] from executing any function or operation it would otherwise reasonably be expected to execute. 
+(v) the DAO, any of the Parties or the DAO Matters is subject to a Legal Order that prohibits the DAO (or that, if the DAO were a Person, would prohibit the DAO) from executing any function or operation it would otherwise reasonably be expected to execute. 
 
 (m) “**Person**” means any human, robot, bot, artificial intelligence, corporation, partnership, association or other individual or entity recognized as having the status of a person under the law.  
 
 **5. Miscellaneous**
 
-(a) *Amendments.* Any provision of this Agreement may be amended, waived or modified only upon the written consent of both of the Parties.
+(a) *Amendments.* Any provision of this Agreement may be amended, waived or modified only upon the effective decision of the DAO on the Designated Blockchain.
 
-(b) *Notices.* Any notice required or permitted by this Agreement will be deemed sufficient when delivered personally or by overnight courier or sent by email to the relevant address listed on the signature page, or 48 hours after being deposited in the U.S. mail as certified or registered mail with postage prepaid, addressed to the Party to be notified at such Party’s address listed on the signature page, as subsequently modified by written notice.
+(b) *Notices.* Any notice required or permitted by this Agreement will be deemed sufficient when published by the DAO on the Designated Blockchain or through other electronic means reasonably sufficient to notify each and all of the Parties hereto concurrently.
 
-(c) *Assignment.* Neither this Agreement nor the rights, obligations or liabilities of either Party hereunder may be assigned or delegated, by operation of law or otherwise, by either Party without the prior written consent of the other Party.
+(c) *Assignment.* Neither this Agreement nor the rights, obligations or liabilities of any Party hereunder may be assigned or delegated, by operation of law or otherwise, by any other Party without effective decision of the DAO on the Designated Blockchain.
 
 (d) *Severability.* In the event any one or more of the provisions of this Agreement is for any reason held to be invalid, illegal or unenforceable, in whole or in part or in any respect, or in the event that any one or more of the provisions of this Agreement operate or would prospectively operate to invalidate this Agreement, then and in any such event, such provisions) only will be deemed null and void and will not affect any other provision of this Agreement and the remaining provisions of this Agreement will remain operative and in full force and effect and will not be affected, prejudiced, or disturbed thereby.
 
-(e) *Construction.* The Parties hereto agree that any rule of construction to the effect that ambiguities are to be resolved against the drafting Party shall not be applied in the construction or interpretation of this Agreement. This Agreement constitutes the entire agreement between the Parties with respect to the subject matter hereof and supersedes all prior agreements and understandings, both written and oral, between the Parties with respect to the subject matter hereof.
+(e) *Construction.* The Parties hereto agree that any rule of construction to the effect that ambiguities are to be resolved against the drafting Party(ies) shall not be applied in the construction or interpretation of this Agreement. This Agreement constitutes the entire agreement between the Parties with respect to the subject matter hereof and supersedes all prior agreements and understandings, both written and oral, between the Parties with respect to the subject matter hereof.
 
-(f) *Counterparts.* This Agreement may be executed in one or more counterparts, all of which shall be considered one and the same instrument and shall become effective when one or more counterparts have been signed by each of the parties hereto and delivered to the other parties hereto; it being understood and agreed that all parties hereto need not sign the same counterpart. The delivery by facsimile, email or other electronic delivery in PDF format of this Agreement with all executed signature pages (in counterparts or otherwise) shall be sufficient to bind the parties hereto to the terms and conditions set forth herein. A signature may be electronic, provided that it complies with with the U.S. federal ESIGN Act of 2000. All of the counterparts will together constitute one and the same instrument and each counterpart will constitute an original of this Agreement
+(f) *Counterparts.* This Agreement may be executed in one or more counterparts, all of which shall be considered one and the same instrument and shall become effective when one or more counterparts have been signed by each of the Parties hereto and delivered to the other Parties hereto (or as published by the DAO on the Designated Blockchain or through other electronic means reasonably sufficient to notify each and all of the Parties hereto concurrently); it being understood and agreed that all Parties hereto need not sign the same counterpart. The delivery by facsimile, email or other electronic delivery in PDF format of this Agreement with all executed signature pages (in counterparts or otherwise) shall be sufficient to bind the Parties hereto to the terms and conditions set forth herein (or as published by the DAO on the Designated Blockchain or through other electronic means reasonably sufficient to notify each and all of the Parties hereto concurrently). A signature may be electronic, provided that it complies with with the U.S. federal ESIGN Act of 2000. All of the counterparts will together constitute one and the same instrument and each counterpart will constitute an original of this Agreement.
 
-(g) *Disputes; Mandatory Arbitration.* Any Legal Proceeding, Claim or other dispute or controversy arising out of or relating to this Agreement, its enforcement, or the breach thereof shall be finally resolved by binding arbitration in accordance with the Arbitration Procedures; *provided, however*, that either Party may seek injunctive relief in aid of arbitration in order to prevent irreparable harm or preserve the status quo. EACH PARTY HEREBY IRREVOCABLY WAIVES ALL RIGHT TO TRIAL BY JURY IN ANY ACTION, PROCEEDING OR COUNTERCLAIM WHETHER BASED ON CONTRACT, TORT OR OTHERWISE) ARISING OUT OF OR RELATING TO THIS AGREEMENT, THE DAO OR THE MATTERS CONTEMPLATED HEREBY OR THE ACTIONS OF SUCH PARTIES IN THE NEGOTIATION, ADMINISTRATION, PERFORMANCE AND ENFORCEMENT HEREOF.
+(g) *Disputes; Mandatory Arbitration.* Any Legal Proceeding, Claim or other dispute or controversy arising out of or relating to this Agreement, its enforcement, or the breach thereof shall be finally resolved by binding arbitration in accordance with the Arbitration Procedures; *provided, however*, that each Party hereto may seek injunctive relief in aid of arbitration in order to prevent irreparable harm or preserve the *status quo*. EACH PARTY HEREBY IRREVOCABLY WAIVES ALL RIGHT TO TRIAL BY JURY IN ANY ACTION, PROCEEDING OR COUNTERCLAIM WHETHER BASED ON CONTRACT, TORT OR OTHERWISE) ARISING OUT OF OR RELATING TO THIS AGREEMENT, THE DAO, THE DAO MATTERS OR THE MATTERS CONTEMPLATED HEREBY OR THE ACTIONS OF SUCH PARTIES IN THE NEGOTIATION, ADMINISTRATION, PERFORMANCE AND ENFORCEMENT HEREOF.
 
-(h) *Governing Law.* All rights and obligations hereunder will be governed by the laws of the State of Delaware, without regard to the conflicts of law provisions thereof.
+(h) *Governing Law.* All rights and obligations hereunder will be governed by the laws of the State of New York, without regard to the conflicts of law provisions thereof.
 __________________________________________________________________________________________________________________________________________
-
-
-*[DAO Signature: 0x________ /ADDRESS/]*
-
 
 *[DAO Participant Signature: 0x________ /ADDRESS/]*
 
