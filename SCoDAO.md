@@ -4,7 +4,7 @@ This Simple Code Deference Agreement for DAO (this "***Agreement***") seeks to e
 
 **1. DAO Matters Deference**
 
-(a) *General Binding Effect.*
+(a) *General Binding Effect*:
 
 (i) *DAO Matters Binding.* Subject to Section 1(b): (i) the results of operation of the DAO and/or DAO Matters shall be determinative of the rights and obligations of, and shall be final, binding upon and non-appealable by, each of the Parties.
 
@@ -16,7 +16,7 @@ This Simple Code Deference Agreement for DAO (this "***Agreement***") seeks to e
 
 (B) cause, encourage or facilitate, a Material Adverse Exception Event.
 
-(b) *Exception Handling.* Notwithstanding anything to the contrary set forth in Section 1(a), if there is a Material Adverse Exception Event, then the rules and procedures set forth in this clause "(b)" shall determine the rights and obligations of the Parties relating to the DAO and/or DAO Matters.
+(b) *Exception Handling.* Notwithstanding anything to the contrary set forth in Section 1(a), if there is a Material Adverse Exception Event, then the rules and procedures set forth in this clause "(b)" shall determine the rights and obligations of the Parties relating to the DAO and/or DAO Matters:
 
 (i) *Exception Notice.* If either Party becomes aware that there is a Material Adverse Exception Event, such Party (the “***Sending Party***”) shall deliver to the other Party (the “***Receiving Party***”) a notice (an “***Exception Notice***”) signed by such Party:
 
@@ -24,15 +24,15 @@ This Simple Code Deference Agreement for DAO (this "***Agreement***") seeks to e
 
 (B) describing in reasonable detail the events, facts, circumstances and reasons forming the basis of such belief;
 
-(C) describing in reasonable detail a proposal by such Party of the actions to be taken, the agreements to be entered into, and the remedies to be sought by the Parties in response to the Material Adverse Exception Event an “***Exception Handling Proposal***”;
+(C) describing in reasonable detail a proposal by such Party of the actions to be taken, the agreements to be entered into, and the remedies to be sought by the Parties in response to the Material Adverse Exception Event (an “***Exception Handling Proposal***”);
 
 (D) including copies of any written evidence or other material written information, and summaries of any other evidence, relevant to, and material for the consideration of, the Material Adverse Exception Event and the other matters referred to in the Exception Notice; and
 
 (E) containing a representation by the Sending Party, made to and for the benefit of the Receiving Party with the understanding that the Receiving Party will rely thereon, that, to the Sending Party’s knowledge, the certification and statements made pursuant to the preceding clauses “(A)” and “(B)” are accurate as of the date of the Exception Notice, and, considered collectively, do not contain any untrue statement of a material fact or omit to state any material fact necessary in order to make such statements, in light of the circumstances in which they were made, not misleading.
 
-(ii) *Exception Standstill.* During the period commencing upon the earlier of a Party becoming aware that there is a Material Adverse Exception Event or being delivered an Exception Notice and ending with the Parties entering into an Exception Handling Addendum or receiving a final decision of an arbitrator in accordance with Section 1(b)(iii) (the “***Standstill Period***”), such Party shall: (A) treat all of the DAO property of such Party that may have been Transferred to such Party as a result of the Material Adverse Exception Event; and (B) deposit and maintain such DAO property in a segregated Account Address to be treated, to the extent permitted by applicable Legal Requirements, as a custodial trust held for the benefit of the other Party.
+(ii) *Exception Standstill.* During the period commencing upon the earlier of a Party becoming aware that there is a Material Adverse Exception Event or being delivered an Exception Notice and ending with the Parties entering into an Exception Handling Addendum or receiving a final decision of an arbitrator in accordance with Section 1(b)(iii) (the “***Standstill Period***”), such Party shall: (A) treat all of the DAO property of such Party that may have been Transferred to such Party as a result of the Material Adverse Exception Event; and (B) deposit and maintain such DAO property in a segregated Account Address to be treated, to the extent permitted by applicable Legal Requirements, as a custodial trust held for the benefit of the DAO.
 
-(iii) *Determination of Exception Handling.*
+(iii) *Determination of Exception Handling*:
 
 (A) The term “***Exception Handling Addendum***” refers to an addendum to this Agreement signed by the Parties and setting forth the Parties’ agreement on the existence or non-existence of a Material Adverse Exception Event and the actions to be taken, the agreements to be entered into, and the remedies to be sought in response thereto. Each Exception Handling Addendum shall automatically and without further action of the Parties be deemed incorporated into and to form a part of this Agreement.
 
