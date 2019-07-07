@@ -122,7 +122,7 @@ As of the time of their effective signature below ("***Effective Time***"), each
 
 (g) *Disputes; Mandatory Arbitration.* Any Legal Proceeding, Claim or other dispute or controversy arising out of or relating to this Agreement, its enforcement, or the breach thereof shall be finally resolved by binding arbitration in accordance with the Arbitration Procedures; *provided, however*, that each Party hereto may seek injunctive relief in aid of arbitration in order to prevent irreparable harm or preserve the *status quo*. EACH PARTY HEREBY IRREVOCABLY WAIVES ALL RIGHT TO TRIAL BY JURY IN ANY ACTION, PROCEEDING OR COUNTERCLAIM WHETHER BASED ON CONTRACT, TORT OR OTHERWISE) ARISING OUT OF OR RELATING TO THIS AGREEMENT, THE DAO, THE DAO MATTERS OR THE MATTERS CONTEMPLATED HEREBY OR THE ACTIONS OF SUCH PARTIES IN THE NEGOTIATION, ADMINISTRATION, PERFORMANCE AND ENFORCEMENT HEREOF.
 
-(h) *Governing Law.* All rights and obligations hereunder will be governed by the laws of the State of New York, without regard to the conflicts of law provisions thereof.
+(h) *Governing Law.* All rights and obligations hereunder will be governed by the laws of [[the State of New York]], without regard to the conflicts of law provisions thereof.
 __________________________________________________________________________________________________________________________________________
 
 *[DAO Participant Signature: 0x________ /ADDRESS/]*
