@@ -90,7 +90,7 @@ As of the time of their effective signature below ("***Effective Time***"), each
 
 (j) “**Legal Proceeding**” means any private or governmental action, suit, litigation, arbitration, claim, proceeding (including any civil, criminal, administrative, investigative or appellate proceeding), hearing, inquiry, audit, examination or investigation commenced, brought, conducted or heard by or before, or otherwise involving, any court or other governmental entity or any arbitrator or arbitration panel. 
 
-(k) “**Lien**” means any lien, pledge, hypothecation, charge, mortgage, security interest, encumbrance, other possessory interest, conditional sale or other title retention agreement, intangible property right, claim, infringement, option, right of first refusal, preemptive right, exclusive license of intellectual property, community property interest or restriction of any nature including any restriction on the voting of any security or restriction on the transfer, use or ownership of any security or other asset. 
+(k) “**Lien**” means any lien, pledge, hypothecation, charge, mortgage, security interest, encumbrance, other possessory interest, conditional sale or other title retention agreement, intangible property right, claim, infringement, option, right of first refusal, preemptive right, exclusive license of intellectual property, community property interest or restriction of any nature including any restriction on the voting of any security and/or token/asset or restriction on the transfer, use or ownership of any security or other asset. 
 
 (l) “**Material Adverse Exception Event**” means that one or more of the following has occurred, is occurring or would reasonably be expected to occur:  
 
