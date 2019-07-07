@@ -46,7 +46,7 @@ This Simple Code Deference Agreement for DAO (this "***Agreement***") seeks to m
 
 **2. Representations and Warranties**
 
-Each Party (as the "***Representing Party***") hereby represents and warrants, to and for the benefit of each other Party hereto, as of the Effective Time, as follows:
+As of the time of their effective signature below ("***Effective Time***"), each Party (as the "***Representing Party***") hereby represents and warrants, to and for the benefit of each other Party hereto, as follows:
 
 (a) *Authorization and Enforceability.* The Representing Party has all necessary power, authority and capacity to perform all of the Representing Party's obligations under, and to execute and deliver, this Agreement. This Agreement has been duly executed and delivered by the Representing Party and constitutes a legal, valid and binding obligation of the Representing Party, enforceable against the Representing Party in accordance with its terms, subject only to the effect, if any, of (i) applicable bankruptcy, insolvency, moratorium or other similar laws affecting the rights of creditors generally, and (ii) rules of law governing specific performance, injunctive relief and other equitable remedies. If the Representing Party is an entity, then the Representing Party is duly formed, organized, validly existing and in good standing under the laws of the jurisdiction in which it was formed.
 
